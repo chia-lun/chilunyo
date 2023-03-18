@@ -1,4 +1,4 @@
-<h4><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">James Yang</h4>
+<h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">James Yang</h2>
 <h4>About Me</h4>
 <p>I'm a full-stack software developer that is passionate about realizing dope ideas with technologies. 
 For frontend development, I'm experienced in Javascript-based programming, especially in React. I also have used 
