@@ -1,9 +1,12 @@
 <h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">James Yang</h2>
 <h4>About Me</h4>
-<p>I'm a full-stack software developer that is passionate about realizing dope ideas with technologies. 
-For frontend development, I'm experienced in Javascript-based programming, especially in React. I also have used 
-Typescript and pure Javascript to build web interface too. For backend development, I am fluent in Java and Python, 
-as well as databases like SQL, PostgreSQL, and NoSQL like firebase.<p/>
+<p>I'm a full-stack software developer who is passionate about realizing dope ideas with technologies! I have had rich experience with web development from my internship and research experience, which also helped me to be able to work professionally and productively as a developer. Besides web development, I also have contributed to AI, HCI and Encryption-related projects that I worked on with my teams. 
+  
+For front-end development, I'm experienced in JavaScript-based programming, especially in React. I also have used 
+Typescript and pure JavaScript to build web interface too. For back-end development, I am fluent in Java and Python, 
+as well as databases like SQL, PostgreSQL, and No-SQL like Google Firebase.
+
+I am excited about more personal and professional growth and looking forward to future opportunities! Feel free to reach out if you want to learn more about me and make connection! <p/>
 <div align="left">
 <a href="https://www.linkedin.com/in/james-yang-chialunyo/"><img src="https://img.shields.io/badge/-LinkedIn-F3F7FA?logo=&logoColor=0A66C2&style=for-the-badge&logoWidth=30" alt="LinkedIn"></a>
 <a href="https://chialunyo.com/"><img src="https://img.shields.io/badge/-Portfolio-F3F7FA?logo=portfolio&logoColor=6364FF&style=for-the-badge&logoWidth=30" alt="Portfolio"></a>
