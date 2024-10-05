@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> Welcome to my workplace!
 
-I am a full-stack software engineer at Easy Labs - a Fintech startup that is building a better payment solution.
+I am a full-stack software engineer at Easy Labs. I am also exploring my path to become a researcher to enhance human-AI/computer interaction! I am interested in and excited about how technologies can make a difference to our lives!
 
 Prior to Easy Labs, I was a software engineer at We Sparkle where I built tools for entrepreneurs to promote & grow their businesses. I was also a HCI researcher that optimized Google Blockly interface with Macalester College & University of Washington research groups. 
 
